@@ -1,4 +1,4 @@
-# Python-
+# python-scrapy爬虫-
 放假期间无聊写了简单爬虫，现在整理出来
 开源python提供的scrapy异步爬虫框架来搭建的
 https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_1 爬取的网站 
